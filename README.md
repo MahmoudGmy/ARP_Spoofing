@@ -26,8 +26,8 @@ Before running this script, make sure you have:
 ## 📌 Installation  
 Clone this repository using:  
 ```bash
-git clone https://github.com/MahmoudGmy/Python_Scripting_Training.git
-cd Python_Scripting_Training
+git clone https://github.com/MahmoudGmy/ARP_Spoofing.git
+cd ARP_Spoofing
 ```
 ---
 ## 🎯 Usage  
